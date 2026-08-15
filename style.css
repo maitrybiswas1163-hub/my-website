@@ -10,3 +10,13 @@ h1 {
 p {
     font -size: 18px;
 }
+nav {
+    background-color: black;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+}
